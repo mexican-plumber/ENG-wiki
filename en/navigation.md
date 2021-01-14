@@ -36,7 +36,7 @@
   * [Infected Horde](pages/infected-horde.md)
   * [Plague Zone](pages/plague-zone.md)
   * [State vs State](pages/svs.md)
-  * [Capital Clash](pages/cpaital-clash.md)
+  * [Capital Clash](pages/capital-clash.md)
 
 [Hints]()
 
