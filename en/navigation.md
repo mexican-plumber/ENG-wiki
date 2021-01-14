@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# ENG/CHS Wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](slate)
 
 
 <!--
@@ -60,6 +60,4 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
 [gimmick:themechooser](Choose theme)
--->

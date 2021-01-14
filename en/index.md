@@ -1,4 +1,4 @@
-# It works! ;-)
+# Welcome to the ENG/CHS Wiki
 
 
 ## Section 1
