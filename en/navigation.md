@@ -19,8 +19,28 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Leaders](pages/leaders.md)
+
+[Rules]()
+
+  * [Alliance](pages/alliance-rules.md)
+  * [State](pages/state-rules.md)
+
+[Events]()
+
+  * [Reservoir Raid](pages/reservoir-raid.md)
+  * [Influencer Trap](pages/influencer-trap.md)
+  * [Bunkers and Facilities](pages/bunkers-and-facilities.md)
+  * [Alliance Showdown](pages/alliance-showdown.md)
+  * [Alliance Throwdown](pages/alliance-throwdown.md)
+  * [Infected Horde](pages/infected-horde.md)
+  * [Plague Zone](pages/plague-zone.md)
+  * [State vs State](pages/svs.md)
+  * [Capital Clash](pages/cpaital-clash.md)
+
+[Hints]()
+
+  * # Coming soon...
 
 <!-- A more complex navigation example: ----------------------------------------
 
